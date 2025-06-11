@@ -5,7 +5,7 @@ import pickle
 import numpy as np
 
 
-# load pikle file
+# load pickle file
 with open('scaler.pkl', 'rb') as f:
     scaler = pickle.load(f)
 
