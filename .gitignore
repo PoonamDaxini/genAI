@@ -123,3 +123,4 @@ dmypy.json
 .DS_Store
 
 Ann/logs/fit
+simpleRnn/logs/rnn/*
